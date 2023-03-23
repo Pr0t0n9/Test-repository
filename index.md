@@ -18,3 +18,8 @@ Text asfjqefankxcasodjqwidasxzkxn kzxccaksfpasdk ak cxzxkjcnkxmas das cc kzcnaso
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+### Task list
+
+- [x] Task 1
+- [ ] Task 2
